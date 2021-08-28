@@ -1,2 +1,2 @@
 [link](./file.js#L400)
-[link](./foo)
+[link](foo.md)
