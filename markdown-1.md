@@ -4,4 +4,13 @@
 
 [link](foo) cannot exclude the file extension (2)
 
-[link](foo.md) 
+[link](foo.md)
+
+<a href="./foo.md">anchor tag to md file</a>
+<br>
+<a href='./foo.md'>anchor tag to md file</a>
+
+<a href="./dog.jpg">anchor tag to image file</a>
+
+<img src="./dog.jpg">
+<img src='./dog.jpg'>
