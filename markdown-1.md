@@ -9,6 +9,8 @@
 <a href="./foo.md">anchor tag to md file</a>
 <br>
 <a href='./foo.md'>anchor tag to md file</a>
+<br>
+<a href='./foo.md#header'>anchor tag to md file with header link</a>
 
 <a href="./dog.jpg">anchor tag to image file</a>
 
