@@ -9,6 +9,8 @@
 
 [link](foo.md)
 
+[link](/test-1/test-2/test-file.md) absolute link using repo top level
+
 <a href="./foo.md">anchor tag to md file</a>
 <br>
 <a href='./foo.md'>anchor tag to md file</a>
